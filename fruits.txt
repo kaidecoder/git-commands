@@ -3,3 +3,11 @@ git status - Used to check the status of the work we've done inside of the folde
 git add <filename> - Used to stage work from the work area to the staging area
 git commit -m "Message" - Used to create history of our work
 git log - Used to check the list all of our commit
+================================================
+git branch - Check your local branches
+git branch -r Check remote branch
+git branch -a Check all the branches
+(((git checkout -b newFruit Create a new branch and check it out)))
+git branch newFruit Creates a new branch
+git switch newFruit Switches to a new branch
+git status
