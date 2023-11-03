@@ -11,3 +11,6 @@ git branch -a Check all the branches
 git branch newFruit Creates a new branch
 git switch newFruit Switches to a new branch
 git status
+git merge newFruit Merge newFruit branch into main branch
+git branch -m master main  Change branch name to main
+
